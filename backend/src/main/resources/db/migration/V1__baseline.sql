@@ -1,0 +1,3 @@
+-- Baseline migration — schema ya existe vía Docker init scripts (infra/postgres/init.sql).
+-- Flyway toma este punto como base; las migraciones V2+ agregan nuevas tablas.
+-- No ejecutar manualmente.
